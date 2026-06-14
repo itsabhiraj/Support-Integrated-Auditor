@@ -1,0 +1,301 @@
+Ticket ID,Ticket Subject,Ticket Description,Ticket Priority,Ticket Type,Ticket Status,Ticket Channel,Customer Satisfaction Rating
+TKT-0000,Support Issue #0,Our entire production system is DOWN. All users cannot access the platform. DATA LOSS occurring. Emergency! (ref 0),low,general,open,phone,3
+TKT-0001,Support Issue #1,"The server is broken, database corrupted, business halted, URGENT help needed asap (ref 1)",medium,technical,open,phone,2
+TKT-0002,Support Issue #2,"Hi, I have a minor question about how to reset my password. No rush whatsoever. (ref 2)",critical,general,resolved,phone,3
+TKT-0003,Support Issue #3,Just wondering when the new features will be released? Nice to have enhancement. (ref 3),high,technical,resolved,chat,5
+TKT-0004,Support Issue #4,"Error repeatedly showing, team of 50 affected, work completely blocked cannot continue (ref 4)",low,billing,in progress,chat,2
+TKT-0005,Support Issue #5,"Minor UI bug, not urgent, cosmetic issue with button color, spelling typo (ref 5)",critical,technical,open,chat,5
+TKT-0006,Support Issue #6,"I have a billing inquiry, could you please help me understand my invoice? (ref 6)",high,technical,open,phone,3
+TKT-0007,Support Issue #7,System outage all users affected revenue loss security breach asap emergency (ref 7),medium,general,in progress,phone,3
+TKT-0008,Support Issue #8,Feature request: would be nice to have dark mode. Just a suggestion. (ref 8),high,general,open,phone,5
+TKT-0009,Support Issue #9,"Cannot access the system at all, critical error, completely broken for entire company (ref 9)",low,general,resolved,email,1
+TKT-0010,Support Issue #10,Our entire production system is DOWN. All users cannot access the platform. DATA LOSS occurring. Emergency! (ref 10),low,general,in progress,email,4
+TKT-0011,Support Issue #11,"The server is broken, database corrupted, business halted, URGENT help needed asap (ref 11)",medium,billing,in progress,chat,1
+TKT-0012,Support Issue #12,"Hi, I have a minor question about how to reset my password. No rush whatsoever. (ref 12)",critical,billing,open,chat,4
+TKT-0013,Support Issue #13,Just wondering when the new features will be released? Nice to have enhancement. (ref 13),high,general,resolved,email,3
+TKT-0014,Support Issue #14,"Error repeatedly showing, team of 50 affected, work completely blocked cannot continue (ref 14)",low,billing,open,chat,4
+TKT-0015,Support Issue #15,"Minor UI bug, not urgent, cosmetic issue with button color, spelling typo (ref 15)",critical,billing,in progress,chat,2
+TKT-0016,Support Issue #16,"I have a billing inquiry, could you please help me understand my invoice? (ref 16)",high,billing,open,phone,2
+TKT-0017,Support Issue #17,System outage all users affected revenue loss security breach asap emergency (ref 17),medium,billing,in progress,chat,4
+TKT-0018,Support Issue #18,Feature request: would be nice to have dark mode. Just a suggestion. (ref 18),high,billing,resolved,phone,4
+TKT-0019,Support Issue #19,"Cannot access the system at all, critical error, completely broken for entire company (ref 19)",low,technical,in progress,email,5
+TKT-0020,Support Issue #20,Our entire production system is DOWN. All users cannot access the platform. DATA LOSS occurring. Emergency! (ref 20),low,billing,resolved,email,2
+TKT-0021,Support Issue #21,"The server is broken, database corrupted, business halted, URGENT help needed asap (ref 21)",medium,technical,open,email,5
+TKT-0022,Support Issue #22,"Hi, I have a minor question about how to reset my password. No rush whatsoever. (ref 22)",critical,general,open,email,1
+TKT-0023,Support Issue #23,Just wondering when the new features will be released? Nice to have enhancement. (ref 23),high,general,open,email,4
+TKT-0024,Support Issue #24,"Error repeatedly showing, team of 50 affected, work completely blocked cannot continue (ref 24)",low,general,resolved,phone,1
+TKT-0025,Support Issue #25,"Minor UI bug, not urgent, cosmetic issue with button color, spelling typo (ref 25)",critical,general,resolved,email,3
+TKT-0026,Support Issue #26,"I have a billing inquiry, could you please help me understand my invoice? (ref 26)",high,technical,in progress,phone,2
+TKT-0027,Support Issue #27,System outage all users affected revenue loss security breach asap emergency (ref 27),medium,technical,resolved,email,4
+TKT-0028,Support Issue #28,Feature request: would be nice to have dark mode. Just a suggestion. (ref 28),high,billing,open,phone,5
+TKT-0029,Support Issue #29,"Cannot access the system at all, critical error, completely broken for entire company (ref 29)",low,general,in progress,phone,3
+TKT-0030,Support Issue #30,Our entire production system is DOWN. All users cannot access the platform. DATA LOSS occurring. Emergency! (ref 30),low,technical,resolved,email,3
+TKT-0031,Support Issue #31,"The server is broken, database corrupted, business halted, URGENT help needed asap (ref 31)",medium,technical,open,chat,3
+TKT-0032,Support Issue #32,"Hi, I have a minor question about how to reset my password. No rush whatsoever. (ref 32)",critical,technical,resolved,phone,2
+TKT-0033,Support Issue #33,Just wondering when the new features will be released? Nice to have enhancement. (ref 33),high,billing,open,phone,1
+TKT-0034,Support Issue #34,"Error repeatedly showing, team of 50 affected, work completely blocked cannot continue (ref 34)",low,technical,in progress,email,5
+TKT-0035,Support Issue #35,"Minor UI bug, not urgent, cosmetic issue with button color, spelling typo (ref 35)",critical,general,resolved,email,4
+TKT-0036,Support Issue #36,"I have a billing inquiry, could you please help me understand my invoice? (ref 36)",high,technical,resolved,phone,3
+TKT-0037,Support Issue #37,System outage all users affected revenue loss security breach asap emergency (ref 37),medium,billing,in progress,chat,5
+TKT-0038,Support Issue #38,Feature request: would be nice to have dark mode. Just a suggestion. (ref 38),high,billing,open,email,4
+TKT-0039,Support Issue #39,"Cannot access the system at all, critical error, completely broken for entire company (ref 39)",low,billing,in progress,phone,2
+TKT-0040,Support Issue #40,Our entire production system is DOWN. All users cannot access the platform. DATA LOSS occurring. Emergency! (ref 40),low,general,open,phone,1
+TKT-0041,Support Issue #41,"The server is broken, database corrupted, business halted, URGENT help needed asap (ref 41)",medium,technical,open,phone,1
+TKT-0042,Support Issue #42,"Hi, I have a minor question about how to reset my password. No rush whatsoever. (ref 42)",critical,technical,open,phone,3
+TKT-0043,Support Issue #43,Just wondering when the new features will be released? Nice to have enhancement. (ref 43),high,technical,in progress,email,1
+TKT-0044,Support Issue #44,"Error repeatedly showing, team of 50 affected, work completely blocked cannot continue (ref 44)",low,general,in progress,phone,3
+TKT-0045,Support Issue #45,"Minor UI bug, not urgent, cosmetic issue with button color, spelling typo (ref 45)",critical,billing,open,email,1
+TKT-0046,Support Issue #46,"I have a billing inquiry, could you please help me understand my invoice? (ref 46)",high,billing,in progress,phone,2
+TKT-0047,Support Issue #47,System outage all users affected revenue loss security breach asap emergency (ref 47),medium,general,open,email,1
+TKT-0048,Support Issue #48,Feature request: would be nice to have dark mode. Just a suggestion. (ref 48),high,technical,resolved,email,2
+TKT-0049,Support Issue #49,"Cannot access the system at all, critical error, completely broken for entire company (ref 49)",low,billing,in progress,phone,5
+TKT-0050,Support Issue #50,Our entire production system is DOWN. All users cannot access the platform. DATA LOSS occurring. Emergency! (ref 50),low,technical,open,phone,2
+TKT-0051,Support Issue #51,"The server is broken, database corrupted, business halted, URGENT help needed asap (ref 51)",medium,technical,in progress,chat,4
+TKT-0052,Support Issue #52,"Hi, I have a minor question about how to reset my password. No rush whatsoever. (ref 52)",critical,general,resolved,phone,1
+TKT-0053,Support Issue #53,Just wondering when the new features will be released? Nice to have enhancement. (ref 53),high,general,in progress,email,4
+TKT-0054,Support Issue #54,"Error repeatedly showing, team of 50 affected, work completely blocked cannot continue (ref 54)",low,billing,in progress,chat,3
+TKT-0055,Support Issue #55,"Minor UI bug, not urgent, cosmetic issue with button color, spelling typo (ref 55)",critical,general,open,email,4
+TKT-0056,Support Issue #56,"I have a billing inquiry, could you please help me understand my invoice? (ref 56)",high,general,in progress,email,3
+TKT-0057,Support Issue #57,System outage all users affected revenue loss security breach asap emergency (ref 57),medium,general,resolved,chat,3
+TKT-0058,Support Issue #58,Feature request: would be nice to have dark mode. Just a suggestion. (ref 58),high,general,resolved,phone,4
+TKT-0059,Support Issue #59,"Cannot access the system at all, critical error, completely broken for entire company (ref 59)",low,technical,open,phone,2
+TKT-0060,Support Issue #60,Our entire production system is DOWN. All users cannot access the platform. DATA LOSS occurring. Emergency! (ref 60),low,technical,resolved,email,1
+TKT-0061,Support Issue #61,"The server is broken, database corrupted, business halted, URGENT help needed asap (ref 61)",medium,billing,resolved,phone,2
+TKT-0062,Support Issue #62,"Hi, I have a minor question about how to reset my password. No rush whatsoever. (ref 62)",critical,general,resolved,chat,1
+TKT-0063,Support Issue #63,Just wondering when the new features will be released? Nice to have enhancement. (ref 63),high,technical,in progress,email,4
+TKT-0064,Support Issue #64,"Error repeatedly showing, team of 50 affected, work completely blocked cannot continue (ref 64)",low,technical,open,phone,1
+TKT-0065,Support Issue #65,"Minor UI bug, not urgent, cosmetic issue with button color, spelling typo (ref 65)",critical,technical,resolved,phone,3
+TKT-0066,Support Issue #66,"I have a billing inquiry, could you please help me understand my invoice? (ref 66)",high,billing,open,phone,1
+TKT-0067,Support Issue #67,System outage all users affected revenue loss security breach asap emergency (ref 67),medium,billing,in progress,phone,1
+TKT-0068,Support Issue #68,Feature request: would be nice to have dark mode. Just a suggestion. (ref 68),high,general,open,email,2
+TKT-0069,Support Issue #69,"Cannot access the system at all, critical error, completely broken for entire company (ref 69)",low,billing,in progress,chat,3
+TKT-0070,Support Issue #70,Our entire production system is DOWN. All users cannot access the platform. DATA LOSS occurring. Emergency! (ref 70),low,technical,open,email,4
+TKT-0071,Support Issue #71,"The server is broken, database corrupted, business halted, URGENT help needed asap (ref 71)",medium,technical,in progress,email,4
+TKT-0072,Support Issue #72,"Hi, I have a minor question about how to reset my password. No rush whatsoever. (ref 72)",critical,general,resolved,email,1
+TKT-0073,Support Issue #73,Just wondering when the new features will be released? Nice to have enhancement. (ref 73),high,general,resolved,chat,5
+TKT-0074,Support Issue #74,"Error repeatedly showing, team of 50 affected, work completely blocked cannot continue (ref 74)",low,general,in progress,phone,3
+TKT-0075,Support Issue #75,"Minor UI bug, not urgent, cosmetic issue with button color, spelling typo (ref 75)",critical,billing,open,chat,1
+TKT-0076,Support Issue #76,"I have a billing inquiry, could you please help me understand my invoice? (ref 76)",high,general,open,email,4
+TKT-0077,Support Issue #77,System outage all users affected revenue loss security breach asap emergency (ref 77),medium,technical,resolved,phone,1
+TKT-0078,Support Issue #78,Feature request: would be nice to have dark mode. Just a suggestion. (ref 78),high,technical,in progress,email,5
+TKT-0079,Support Issue #79,"Cannot access the system at all, critical error, completely broken for entire company (ref 79)",low,billing,resolved,email,5
+TKT-0080,Support Issue #80,Our entire production system is DOWN. All users cannot access the platform. DATA LOSS occurring. Emergency! (ref 80),low,technical,open,chat,5
+TKT-0081,Support Issue #81,"The server is broken, database corrupted, business halted, URGENT help needed asap (ref 81)",medium,general,resolved,email,4
+TKT-0082,Support Issue #82,"Hi, I have a minor question about how to reset my password. No rush whatsoever. (ref 82)",critical,general,open,email,1
+TKT-0083,Support Issue #83,Just wondering when the new features will be released? Nice to have enhancement. (ref 83),high,general,in progress,email,2
+TKT-0084,Support Issue #84,"Error repeatedly showing, team of 50 affected, work completely blocked cannot continue (ref 84)",low,general,in progress,chat,3
+TKT-0085,Support Issue #85,"Minor UI bug, not urgent, cosmetic issue with button color, spelling typo (ref 85)",critical,billing,in progress,phone,2
+TKT-0086,Support Issue #86,"I have a billing inquiry, could you please help me understand my invoice? (ref 86)",high,general,resolved,chat,2
+TKT-0087,Support Issue #87,System outage all users affected revenue loss security breach asap emergency (ref 87),medium,billing,open,email,1
+TKT-0088,Support Issue #88,Feature request: would be nice to have dark mode. Just a suggestion. (ref 88),high,general,in progress,phone,5
+TKT-0089,Support Issue #89,"Cannot access the system at all, critical error, completely broken for entire company (ref 89)",low,billing,resolved,chat,3
+TKT-0090,Support Issue #90,Our entire production system is DOWN. All users cannot access the platform. DATA LOSS occurring. Emergency! (ref 90),low,billing,open,email,4
+TKT-0091,Support Issue #91,"The server is broken, database corrupted, business halted, URGENT help needed asap (ref 91)",medium,billing,resolved,email,4
+TKT-0092,Support Issue #92,"Hi, I have a minor question about how to reset my password. No rush whatsoever. (ref 92)",critical,technical,open,chat,4
+TKT-0093,Support Issue #93,Just wondering when the new features will be released? Nice to have enhancement. (ref 93),high,general,resolved,phone,4
+TKT-0094,Support Issue #94,"Error repeatedly showing, team of 50 affected, work completely blocked cannot continue (ref 94)",low,billing,in progress,phone,3
+TKT-0095,Support Issue #95,"Minor UI bug, not urgent, cosmetic issue with button color, spelling typo (ref 95)",critical,technical,in progress,phone,5
+TKT-0096,Support Issue #96,"I have a billing inquiry, could you please help me understand my invoice? (ref 96)",high,billing,in progress,chat,1
+TKT-0097,Support Issue #97,System outage all users affected revenue loss security breach asap emergency (ref 97),medium,billing,in progress,phone,3
+TKT-0098,Support Issue #98,Feature request: would be nice to have dark mode. Just a suggestion. (ref 98),high,technical,open,email,4
+TKT-0099,Support Issue #99,"Cannot access the system at all, critical error, completely broken for entire company (ref 99)",low,technical,resolved,chat,5
+TKT-0100,Support Issue #100,Our entire production system is DOWN. All users cannot access the platform. DATA LOSS occurring. Emergency! (ref 100),low,billing,resolved,phone,4
+TKT-0101,Support Issue #101,"The server is broken, database corrupted, business halted, URGENT help needed asap (ref 101)",medium,technical,in progress,chat,3
+TKT-0102,Support Issue #102,"Hi, I have a minor question about how to reset my password. No rush whatsoever. (ref 102)",critical,technical,resolved,phone,4
+TKT-0103,Support Issue #103,Just wondering when the new features will be released? Nice to have enhancement. (ref 103),high,billing,resolved,chat,5
+TKT-0104,Support Issue #104,"Error repeatedly showing, team of 50 affected, work completely blocked cannot continue (ref 104)",low,billing,open,chat,1
+TKT-0105,Support Issue #105,"Minor UI bug, not urgent, cosmetic issue with button color, spelling typo (ref 105)",critical,technical,open,chat,2
+TKT-0106,Support Issue #106,"I have a billing inquiry, could you please help me understand my invoice? (ref 106)",high,technical,resolved,chat,1
+TKT-0107,Support Issue #107,System outage all users affected revenue loss security breach asap emergency (ref 107),medium,technical,open,email,5
+TKT-0108,Support Issue #108,Feature request: would be nice to have dark mode. Just a suggestion. (ref 108),high,general,resolved,email,5
+TKT-0109,Support Issue #109,"Cannot access the system at all, critical error, completely broken for entire company (ref 109)",low,general,resolved,chat,3
+TKT-0110,Support Issue #110,Our entire production system is DOWN. All users cannot access the platform. DATA LOSS occurring. Emergency! (ref 110),low,technical,in progress,email,5
+TKT-0111,Support Issue #111,"The server is broken, database corrupted, business halted, URGENT help needed asap (ref 111)",medium,billing,open,phone,1
+TKT-0112,Support Issue #112,"Hi, I have a minor question about how to reset my password. No rush whatsoever. (ref 112)",critical,billing,in progress,chat,4
+TKT-0113,Support Issue #113,Just wondering when the new features will be released? Nice to have enhancement. (ref 113),high,technical,in progress,chat,5
+TKT-0114,Support Issue #114,"Error repeatedly showing, team of 50 affected, work completely blocked cannot continue (ref 114)",low,general,open,chat,5
+TKT-0115,Support Issue #115,"Minor UI bug, not urgent, cosmetic issue with button color, spelling typo (ref 115)",critical,general,in progress,chat,5
+TKT-0116,Support Issue #116,"I have a billing inquiry, could you please help me understand my invoice? (ref 116)",high,billing,resolved,chat,2
+TKT-0117,Support Issue #117,System outage all users affected revenue loss security breach asap emergency (ref 117),medium,general,in progress,email,5
+TKT-0118,Support Issue #118,Feature request: would be nice to have dark mode. Just a suggestion. (ref 118),high,technical,resolved,chat,1
+TKT-0119,Support Issue #119,"Cannot access the system at all, critical error, completely broken for entire company (ref 119)",low,general,in progress,phone,4
+TKT-0120,Support Issue #120,Our entire production system is DOWN. All users cannot access the platform. DATA LOSS occurring. Emergency! (ref 120),low,technical,open,email,3
+TKT-0121,Support Issue #121,"The server is broken, database corrupted, business halted, URGENT help needed asap (ref 121)",medium,general,open,phone,1
+TKT-0122,Support Issue #122,"Hi, I have a minor question about how to reset my password. No rush whatsoever. (ref 122)",critical,technical,in progress,phone,4
+TKT-0123,Support Issue #123,Just wondering when the new features will be released? Nice to have enhancement. (ref 123),high,technical,open,phone,2
+TKT-0124,Support Issue #124,"Error repeatedly showing, team of 50 affected, work completely blocked cannot continue (ref 124)",low,technical,resolved,chat,3
+TKT-0125,Support Issue #125,"Minor UI bug, not urgent, cosmetic issue with button color, spelling typo (ref 125)",critical,general,open,chat,5
+TKT-0126,Support Issue #126,"I have a billing inquiry, could you please help me understand my invoice? (ref 126)",high,billing,in progress,chat,2
+TKT-0127,Support Issue #127,System outage all users affected revenue loss security breach asap emergency (ref 127),medium,general,open,phone,4
+TKT-0128,Support Issue #128,Feature request: would be nice to have dark mode. Just a suggestion. (ref 128),high,billing,open,chat,5
+TKT-0129,Support Issue #129,"Cannot access the system at all, critical error, completely broken for entire company (ref 129)",low,general,open,email,5
+TKT-0130,Support Issue #130,Our entire production system is DOWN. All users cannot access the platform. DATA LOSS occurring. Emergency! (ref 130),low,technical,open,chat,5
+TKT-0131,Support Issue #131,"The server is broken, database corrupted, business halted, URGENT help needed asap (ref 131)",medium,technical,resolved,email,3
+TKT-0132,Support Issue #132,"Hi, I have a minor question about how to reset my password. No rush whatsoever. (ref 132)",critical,billing,open,phone,5
+TKT-0133,Support Issue #133,Just wondering when the new features will be released? Nice to have enhancement. (ref 133),high,technical,resolved,email,1
+TKT-0134,Support Issue #134,"Error repeatedly showing, team of 50 affected, work completely blocked cannot continue (ref 134)",low,general,open,chat,1
+TKT-0135,Support Issue #135,"Minor UI bug, not urgent, cosmetic issue with button color, spelling typo (ref 135)",critical,technical,in progress,email,5
+TKT-0136,Support Issue #136,"I have a billing inquiry, could you please help me understand my invoice? (ref 136)",high,general,resolved,email,4
+TKT-0137,Support Issue #137,System outage all users affected revenue loss security breach asap emergency (ref 137),medium,technical,open,phone,4
+TKT-0138,Support Issue #138,Feature request: would be nice to have dark mode. Just a suggestion. (ref 138),high,technical,resolved,chat,4
+TKT-0139,Support Issue #139,"Cannot access the system at all, critical error, completely broken for entire company (ref 139)",low,general,in progress,phone,5
+TKT-0140,Support Issue #140,Our entire production system is DOWN. All users cannot access the platform. DATA LOSS occurring. Emergency! (ref 140),low,technical,resolved,email,4
+TKT-0141,Support Issue #141,"The server is broken, database corrupted, business halted, URGENT help needed asap (ref 141)",medium,general,open,email,1
+TKT-0142,Support Issue #142,"Hi, I have a minor question about how to reset my password. No rush whatsoever. (ref 142)",critical,general,open,email,2
+TKT-0143,Support Issue #143,Just wondering when the new features will be released? Nice to have enhancement. (ref 143),high,billing,resolved,chat,2
+TKT-0144,Support Issue #144,"Error repeatedly showing, team of 50 affected, work completely blocked cannot continue (ref 144)",low,technical,resolved,phone,5
+TKT-0145,Support Issue #145,"Minor UI bug, not urgent, cosmetic issue with button color, spelling typo (ref 145)",critical,general,resolved,chat,4
+TKT-0146,Support Issue #146,"I have a billing inquiry, could you please help me understand my invoice? (ref 146)",high,technical,in progress,chat,4
+TKT-0147,Support Issue #147,System outage all users affected revenue loss security breach asap emergency (ref 147),medium,technical,open,chat,5
+TKT-0148,Support Issue #148,Feature request: would be nice to have dark mode. Just a suggestion. (ref 148),high,billing,open,chat,3
+TKT-0149,Support Issue #149,"Cannot access the system at all, critical error, completely broken for entire company (ref 149)",low,billing,in progress,email,5
+TKT-0150,Support Issue #150,Our entire production system is DOWN. All users cannot access the platform. DATA LOSS occurring. Emergency! (ref 150),low,technical,in progress,phone,5
+TKT-0151,Support Issue #151,"The server is broken, database corrupted, business halted, URGENT help needed asap (ref 151)",medium,technical,in progress,email,1
+TKT-0152,Support Issue #152,"Hi, I have a minor question about how to reset my password. No rush whatsoever. (ref 152)",critical,technical,in progress,phone,3
+TKT-0153,Support Issue #153,Just wondering when the new features will be released? Nice to have enhancement. (ref 153),high,technical,in progress,phone,3
+TKT-0154,Support Issue #154,"Error repeatedly showing, team of 50 affected, work completely blocked cannot continue (ref 154)",low,billing,in progress,phone,3
+TKT-0155,Support Issue #155,"Minor UI bug, not urgent, cosmetic issue with button color, spelling typo (ref 155)",critical,technical,open,chat,4
+TKT-0156,Support Issue #156,"I have a billing inquiry, could you please help me understand my invoice? (ref 156)",high,billing,in progress,email,1
+TKT-0157,Support Issue #157,System outage all users affected revenue loss security breach asap emergency (ref 157),medium,general,open,phone,5
+TKT-0158,Support Issue #158,Feature request: would be nice to have dark mode. Just a suggestion. (ref 158),high,billing,open,phone,4
+TKT-0159,Support Issue #159,"Cannot access the system at all, critical error, completely broken for entire company (ref 159)",low,technical,open,email,5
+TKT-0160,Support Issue #160,Our entire production system is DOWN. All users cannot access the platform. DATA LOSS occurring. Emergency! (ref 160),low,billing,in progress,email,5
+TKT-0161,Support Issue #161,"The server is broken, database corrupted, business halted, URGENT help needed asap (ref 161)",medium,technical,resolved,email,5
+TKT-0162,Support Issue #162,"Hi, I have a minor question about how to reset my password. No rush whatsoever. (ref 162)",critical,general,open,phone,3
+TKT-0163,Support Issue #163,Just wondering when the new features will be released? Nice to have enhancement. (ref 163),high,technical,in progress,phone,1
+TKT-0164,Support Issue #164,"Error repeatedly showing, team of 50 affected, work completely blocked cannot continue (ref 164)",low,technical,in progress,phone,1
+TKT-0165,Support Issue #165,"Minor UI bug, not urgent, cosmetic issue with button color, spelling typo (ref 165)",critical,technical,in progress,chat,3
+TKT-0166,Support Issue #166,"I have a billing inquiry, could you please help me understand my invoice? (ref 166)",high,general,open,phone,4
+TKT-0167,Support Issue #167,System outage all users affected revenue loss security breach asap emergency (ref 167),medium,billing,in progress,email,2
+TKT-0168,Support Issue #168,Feature request: would be nice to have dark mode. Just a suggestion. (ref 168),high,billing,in progress,chat,4
+TKT-0169,Support Issue #169,"Cannot access the system at all, critical error, completely broken for entire company (ref 169)",low,technical,open,phone,1
+TKT-0170,Support Issue #170,Our entire production system is DOWN. All users cannot access the platform. DATA LOSS occurring. Emergency! (ref 170),low,technical,open,email,4
+TKT-0171,Support Issue #171,"The server is broken, database corrupted, business halted, URGENT help needed asap (ref 171)",medium,technical,open,email,3
+TKT-0172,Support Issue #172,"Hi, I have a minor question about how to reset my password. No rush whatsoever. (ref 172)",critical,technical,in progress,chat,3
+TKT-0173,Support Issue #173,Just wondering when the new features will be released? Nice to have enhancement. (ref 173),high,technical,resolved,email,2
+TKT-0174,Support Issue #174,"Error repeatedly showing, team of 50 affected, work completely blocked cannot continue (ref 174)",low,billing,in progress,chat,3
+TKT-0175,Support Issue #175,"Minor UI bug, not urgent, cosmetic issue with button color, spelling typo (ref 175)",critical,technical,open,phone,1
+TKT-0176,Support Issue #176,"I have a billing inquiry, could you please help me understand my invoice? (ref 176)",high,billing,open,chat,1
+TKT-0177,Support Issue #177,System outage all users affected revenue loss security breach asap emergency (ref 177),medium,general,open,chat,1
+TKT-0178,Support Issue #178,Feature request: would be nice to have dark mode. Just a suggestion. (ref 178),high,billing,resolved,phone,1
+TKT-0179,Support Issue #179,"Cannot access the system at all, critical error, completely broken for entire company (ref 179)",low,technical,open,chat,1
+TKT-0180,Support Issue #180,Our entire production system is DOWN. All users cannot access the platform. DATA LOSS occurring. Emergency! (ref 180),low,general,resolved,email,5
+TKT-0181,Support Issue #181,"The server is broken, database corrupted, business halted, URGENT help needed asap (ref 181)",medium,general,in progress,email,5
+TKT-0182,Support Issue #182,"Hi, I have a minor question about how to reset my password. No rush whatsoever. (ref 182)",critical,general,open,chat,3
+TKT-0183,Support Issue #183,Just wondering when the new features will be released? Nice to have enhancement. (ref 183),high,technical,resolved,email,5
+TKT-0184,Support Issue #184,"Error repeatedly showing, team of 50 affected, work completely blocked cannot continue (ref 184)",low,technical,in progress,chat,3
+TKT-0185,Support Issue #185,"Minor UI bug, not urgent, cosmetic issue with button color, spelling typo (ref 185)",critical,technical,open,chat,1
+TKT-0186,Support Issue #186,"I have a billing inquiry, could you please help me understand my invoice? (ref 186)",high,billing,open,phone,5
+TKT-0187,Support Issue #187,System outage all users affected revenue loss security breach asap emergency (ref 187),medium,technical,in progress,email,1
+TKT-0188,Support Issue #188,Feature request: would be nice to have dark mode. Just a suggestion. (ref 188),high,billing,resolved,phone,2
+TKT-0189,Support Issue #189,"Cannot access the system at all, critical error, completely broken for entire company (ref 189)",low,billing,in progress,chat,3
+TKT-0190,Support Issue #190,Our entire production system is DOWN. All users cannot access the platform. DATA LOSS occurring. Emergency! (ref 190),low,general,in progress,email,4
+TKT-0191,Support Issue #191,"The server is broken, database corrupted, business halted, URGENT help needed asap (ref 191)",medium,technical,in progress,chat,3
+TKT-0192,Support Issue #192,"Hi, I have a minor question about how to reset my password. No rush whatsoever. (ref 192)",critical,technical,open,phone,5
+TKT-0193,Support Issue #193,Just wondering when the new features will be released? Nice to have enhancement. (ref 193),high,technical,in progress,chat,3
+TKT-0194,Support Issue #194,"Error repeatedly showing, team of 50 affected, work completely blocked cannot continue (ref 194)",low,general,resolved,chat,4
+TKT-0195,Support Issue #195,"Minor UI bug, not urgent, cosmetic issue with button color, spelling typo (ref 195)",critical,billing,in progress,chat,2
+TKT-0196,Support Issue #196,"I have a billing inquiry, could you please help me understand my invoice? (ref 196)",high,billing,in progress,phone,3
+TKT-0197,Support Issue #197,System outage all users affected revenue loss security breach asap emergency (ref 197),medium,general,resolved,chat,4
+TKT-0198,Support Issue #198,Feature request: would be nice to have dark mode. Just a suggestion. (ref 198),high,technical,in progress,email,4
+TKT-0199,Support Issue #199,"Cannot access the system at all, critical error, completely broken for entire company (ref 199)",low,billing,resolved,chat,3
+TKT-0200,Support Issue #200,Our entire production system is DOWN. All users cannot access the platform. DATA LOSS occurring. Emergency! (ref 200),low,technical,open,email,4
+TKT-0201,Support Issue #201,"The server is broken, database corrupted, business halted, URGENT help needed asap (ref 201)",medium,billing,open,chat,1
+TKT-0202,Support Issue #202,"Hi, I have a minor question about how to reset my password. No rush whatsoever. (ref 202)",critical,technical,in progress,chat,5
+TKT-0203,Support Issue #203,Just wondering when the new features will be released? Nice to have enhancement. (ref 203),high,billing,open,chat,3
+TKT-0204,Support Issue #204,"Error repeatedly showing, team of 50 affected, work completely blocked cannot continue (ref 204)",low,general,resolved,phone,1
+TKT-0205,Support Issue #205,"Minor UI bug, not urgent, cosmetic issue with button color, spelling typo (ref 205)",critical,general,resolved,phone,3
+TKT-0206,Support Issue #206,"I have a billing inquiry, could you please help me understand my invoice? (ref 206)",high,billing,open,phone,3
+TKT-0207,Support Issue #207,System outage all users affected revenue loss security breach asap emergency (ref 207),medium,general,open,chat,5
+TKT-0208,Support Issue #208,Feature request: would be nice to have dark mode. Just a suggestion. (ref 208),high,billing,resolved,phone,5
+TKT-0209,Support Issue #209,"Cannot access the system at all, critical error, completely broken for entire company (ref 209)",low,technical,in progress,chat,5
+TKT-0210,Support Issue #210,Our entire production system is DOWN. All users cannot access the platform. DATA LOSS occurring. Emergency! (ref 210),low,billing,open,chat,1
+TKT-0211,Support Issue #211,"The server is broken, database corrupted, business halted, URGENT help needed asap (ref 211)",medium,technical,open,chat,2
+TKT-0212,Support Issue #212,"Hi, I have a minor question about how to reset my password. No rush whatsoever. (ref 212)",critical,technical,in progress,chat,5
+TKT-0213,Support Issue #213,Just wondering when the new features will be released? Nice to have enhancement. (ref 213),high,general,open,chat,1
+TKT-0214,Support Issue #214,"Error repeatedly showing, team of 50 affected, work completely blocked cannot continue (ref 214)",low,general,open,chat,3
+TKT-0215,Support Issue #215,"Minor UI bug, not urgent, cosmetic issue with button color, spelling typo (ref 215)",critical,general,open,email,2
+TKT-0216,Support Issue #216,"I have a billing inquiry, could you please help me understand my invoice? (ref 216)",high,technical,open,phone,5
+TKT-0217,Support Issue #217,System outage all users affected revenue loss security breach asap emergency (ref 217),medium,general,resolved,phone,2
+TKT-0218,Support Issue #218,Feature request: would be nice to have dark mode. Just a suggestion. (ref 218),high,general,in progress,chat,5
+TKT-0219,Support Issue #219,"Cannot access the system at all, critical error, completely broken for entire company (ref 219)",low,billing,in progress,phone,3
+TKT-0220,Support Issue #220,Our entire production system is DOWN. All users cannot access the platform. DATA LOSS occurring. Emergency! (ref 220),low,general,resolved,phone,3
+TKT-0221,Support Issue #221,"The server is broken, database corrupted, business halted, URGENT help needed asap (ref 221)",medium,general,open,chat,2
+TKT-0222,Support Issue #222,"Hi, I have a minor question about how to reset my password. No rush whatsoever. (ref 222)",critical,billing,resolved,phone,1
+TKT-0223,Support Issue #223,Just wondering when the new features will be released? Nice to have enhancement. (ref 223),high,general,open,chat,1
+TKT-0224,Support Issue #224,"Error repeatedly showing, team of 50 affected, work completely blocked cannot continue (ref 224)",low,technical,resolved,chat,2
+TKT-0225,Support Issue #225,"Minor UI bug, not urgent, cosmetic issue with button color, spelling typo (ref 225)",critical,billing,open,email,5
+TKT-0226,Support Issue #226,"I have a billing inquiry, could you please help me understand my invoice? (ref 226)",high,technical,in progress,phone,1
+TKT-0227,Support Issue #227,System outage all users affected revenue loss security breach asap emergency (ref 227),medium,technical,in progress,phone,4
+TKT-0228,Support Issue #228,Feature request: would be nice to have dark mode. Just a suggestion. (ref 228),high,general,in progress,chat,1
+TKT-0229,Support Issue #229,"Cannot access the system at all, critical error, completely broken for entire company (ref 229)",low,general,in progress,email,5
+TKT-0230,Support Issue #230,Our entire production system is DOWN. All users cannot access the platform. DATA LOSS occurring. Emergency! (ref 230),low,billing,in progress,chat,3
+TKT-0231,Support Issue #231,"The server is broken, database corrupted, business halted, URGENT help needed asap (ref 231)",medium,general,open,chat,5
+TKT-0232,Support Issue #232,"Hi, I have a minor question about how to reset my password. No rush whatsoever. (ref 232)",critical,technical,open,email,5
+TKT-0233,Support Issue #233,Just wondering when the new features will be released? Nice to have enhancement. (ref 233),high,billing,in progress,phone,4
+TKT-0234,Support Issue #234,"Error repeatedly showing, team of 50 affected, work completely blocked cannot continue (ref 234)",low,billing,resolved,chat,1
+TKT-0235,Support Issue #235,"Minor UI bug, not urgent, cosmetic issue with button color, spelling typo (ref 235)",critical,general,resolved,phone,5
+TKT-0236,Support Issue #236,"I have a billing inquiry, could you please help me understand my invoice? (ref 236)",high,general,in progress,chat,4
+TKT-0237,Support Issue #237,System outage all users affected revenue loss security breach asap emergency (ref 237),medium,general,resolved,chat,1
+TKT-0238,Support Issue #238,Feature request: would be nice to have dark mode. Just a suggestion. (ref 238),high,billing,in progress,phone,1
+TKT-0239,Support Issue #239,"Cannot access the system at all, critical error, completely broken for entire company (ref 239)",low,billing,resolved,phone,2
+TKT-0240,Support Issue #240,Our entire production system is DOWN. All users cannot access the platform. DATA LOSS occurring. Emergency! (ref 240),low,general,open,email,2
+TKT-0241,Support Issue #241,"The server is broken, database corrupted, business halted, URGENT help needed asap (ref 241)",medium,billing,resolved,email,4
+TKT-0242,Support Issue #242,"Hi, I have a minor question about how to reset my password. No rush whatsoever. (ref 242)",critical,technical,resolved,email,2
+TKT-0243,Support Issue #243,Just wondering when the new features will be released? Nice to have enhancement. (ref 243),high,billing,in progress,email,3
+TKT-0244,Support Issue #244,"Error repeatedly showing, team of 50 affected, work completely blocked cannot continue (ref 244)",low,general,open,phone,3
+TKT-0245,Support Issue #245,"Minor UI bug, not urgent, cosmetic issue with button color, spelling typo (ref 245)",critical,technical,in progress,chat,2
+TKT-0246,Support Issue #246,"I have a billing inquiry, could you please help me understand my invoice? (ref 246)",high,technical,resolved,chat,4
+TKT-0247,Support Issue #247,System outage all users affected revenue loss security breach asap emergency (ref 247),medium,billing,open,chat,4
+TKT-0248,Support Issue #248,Feature request: would be nice to have dark mode. Just a suggestion. (ref 248),high,technical,resolved,email,1
+TKT-0249,Support Issue #249,"Cannot access the system at all, critical error, completely broken for entire company (ref 249)",low,technical,open,phone,3
+TKT-0250,Support Issue #250,Our entire production system is DOWN. All users cannot access the platform. DATA LOSS occurring. Emergency! (ref 250),low,billing,resolved,email,5
+TKT-0251,Support Issue #251,"The server is broken, database corrupted, business halted, URGENT help needed asap (ref 251)",medium,billing,in progress,chat,5
+TKT-0252,Support Issue #252,"Hi, I have a minor question about how to reset my password. No rush whatsoever. (ref 252)",critical,general,open,chat,4
+TKT-0253,Support Issue #253,Just wondering when the new features will be released? Nice to have enhancement. (ref 253),high,general,resolved,email,4
+TKT-0254,Support Issue #254,"Error repeatedly showing, team of 50 affected, work completely blocked cannot continue (ref 254)",low,technical,resolved,email,5
+TKT-0255,Support Issue #255,"Minor UI bug, not urgent, cosmetic issue with button color, spelling typo (ref 255)",critical,billing,in progress,phone,5
+TKT-0256,Support Issue #256,"I have a billing inquiry, could you please help me understand my invoice? (ref 256)",high,technical,open,phone,3
+TKT-0257,Support Issue #257,System outage all users affected revenue loss security breach asap emergency (ref 257),medium,billing,in progress,chat,4
+TKT-0258,Support Issue #258,Feature request: would be nice to have dark mode. Just a suggestion. (ref 258),high,technical,open,chat,1
+TKT-0259,Support Issue #259,"Cannot access the system at all, critical error, completely broken for entire company (ref 259)",low,billing,resolved,chat,3
+TKT-0260,Support Issue #260,Our entire production system is DOWN. All users cannot access the platform. DATA LOSS occurring. Emergency! (ref 260),low,technical,in progress,email,1
+TKT-0261,Support Issue #261,"The server is broken, database corrupted, business halted, URGENT help needed asap (ref 261)",medium,technical,open,email,2
+TKT-0262,Support Issue #262,"Hi, I have a minor question about how to reset my password. No rush whatsoever. (ref 262)",critical,billing,open,phone,3
+TKT-0263,Support Issue #263,Just wondering when the new features will be released? Nice to have enhancement. (ref 263),high,billing,in progress,phone,3
+TKT-0264,Support Issue #264,"Error repeatedly showing, team of 50 affected, work completely blocked cannot continue (ref 264)",low,billing,resolved,phone,5
+TKT-0265,Support Issue #265,"Minor UI bug, not urgent, cosmetic issue with button color, spelling typo (ref 265)",critical,technical,in progress,phone,3
+TKT-0266,Support Issue #266,"I have a billing inquiry, could you please help me understand my invoice? (ref 266)",high,technical,in progress,email,1
+TKT-0267,Support Issue #267,System outage all users affected revenue loss security breach asap emergency (ref 267),medium,technical,open,phone,1
+TKT-0268,Support Issue #268,Feature request: would be nice to have dark mode. Just a suggestion. (ref 268),high,billing,in progress,chat,2
+TKT-0269,Support Issue #269,"Cannot access the system at all, critical error, completely broken for entire company (ref 269)",low,technical,resolved,chat,1
+TKT-0270,Support Issue #270,Our entire production system is DOWN. All users cannot access the platform. DATA LOSS occurring. Emergency! (ref 270),low,billing,in progress,email,4
+TKT-0271,Support Issue #271,"The server is broken, database corrupted, business halted, URGENT help needed asap (ref 271)",medium,technical,resolved,email,5
+TKT-0272,Support Issue #272,"Hi, I have a minor question about how to reset my password. No rush whatsoever. (ref 272)",critical,technical,resolved,email,2
+TKT-0273,Support Issue #273,Just wondering when the new features will be released? Nice to have enhancement. (ref 273),high,general,resolved,phone,3
+TKT-0274,Support Issue #274,"Error repeatedly showing, team of 50 affected, work completely blocked cannot continue (ref 274)",low,billing,resolved,phone,5
+TKT-0275,Support Issue #275,"Minor UI bug, not urgent, cosmetic issue with button color, spelling typo (ref 275)",critical,general,in progress,chat,2
+TKT-0276,Support Issue #276,"I have a billing inquiry, could you please help me understand my invoice? (ref 276)",high,billing,resolved,chat,5
+TKT-0277,Support Issue #277,System outage all users affected revenue loss security breach asap emergency (ref 277),medium,billing,in progress,email,1
+TKT-0278,Support Issue #278,Feature request: would be nice to have dark mode. Just a suggestion. (ref 278),high,general,resolved,email,5
+TKT-0279,Support Issue #279,"Cannot access the system at all, critical error, completely broken for entire company (ref 279)",low,general,in progress,email,4
+TKT-0280,Support Issue #280,Our entire production system is DOWN. All users cannot access the platform. DATA LOSS occurring. Emergency! (ref 280),low,general,in progress,email,3
+TKT-0281,Support Issue #281,"The server is broken, database corrupted, business halted, URGENT help needed asap (ref 281)",medium,technical,in progress,email,3
+TKT-0282,Support Issue #282,"Hi, I have a minor question about how to reset my password. No rush whatsoever. (ref 282)",critical,general,open,chat,5
+TKT-0283,Support Issue #283,Just wondering when the new features will be released? Nice to have enhancement. (ref 283),high,technical,in progress,chat,4
+TKT-0284,Support Issue #284,"Error repeatedly showing, team of 50 affected, work completely blocked cannot continue (ref 284)",low,billing,resolved,email,1
+TKT-0285,Support Issue #285,"Minor UI bug, not urgent, cosmetic issue with button color, spelling typo (ref 285)",critical,general,in progress,phone,3
+TKT-0286,Support Issue #286,"I have a billing inquiry, could you please help me understand my invoice? (ref 286)",high,general,open,phone,1
+TKT-0287,Support Issue #287,System outage all users affected revenue loss security breach asap emergency (ref 287),medium,technical,open,chat,4
+TKT-0288,Support Issue #288,Feature request: would be nice to have dark mode. Just a suggestion. (ref 288),high,technical,open,chat,1
+TKT-0289,Support Issue #289,"Cannot access the system at all, critical error, completely broken for entire company (ref 289)",low,general,resolved,email,2
+TKT-0290,Support Issue #290,Our entire production system is DOWN. All users cannot access the platform. DATA LOSS occurring. Emergency! (ref 290),low,general,in progress,chat,2
+TKT-0291,Support Issue #291,"The server is broken, database corrupted, business halted, URGENT help needed asap (ref 291)",medium,general,in progress,phone,1
+TKT-0292,Support Issue #292,"Hi, I have a minor question about how to reset my password. No rush whatsoever. (ref 292)",critical,general,resolved,phone,3
+TKT-0293,Support Issue #293,Just wondering when the new features will be released? Nice to have enhancement. (ref 293),high,billing,open,phone,4
+TKT-0294,Support Issue #294,"Error repeatedly showing, team of 50 affected, work completely blocked cannot continue (ref 294)",low,billing,open,email,1
+TKT-0295,Support Issue #295,"Minor UI bug, not urgent, cosmetic issue with button color, spelling typo (ref 295)",critical,technical,resolved,phone,2
+TKT-0296,Support Issue #296,"I have a billing inquiry, could you please help me understand my invoice? (ref 296)",high,billing,open,email,1
+TKT-0297,Support Issue #297,System outage all users affected revenue loss security breach asap emergency (ref 297),medium,technical,open,chat,4
+TKT-0298,Support Issue #298,Feature request: would be nice to have dark mode. Just a suggestion. (ref 298),high,general,open,email,1
+TKT-0299,Support Issue #299,"Cannot access the system at all, critical error, completely broken for entire company (ref 299)",low,technical,in progress,phone,3
